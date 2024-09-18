@@ -1,0 +1,33 @@
+#p1{
+    /* border-width: 2px;
+    border-color: aqua;
+    border-style: solid; */
+
+    border: 15px aqua groove;
+}
+#p2{
+    border: 15px red double;
+}
+#p3{
+    border: 10px blue solid;
+}
+#p4{
+    border: 20px black dashed;
+}
+
+img{
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+}
+ figure{
+    border: solid 2px;
+    border-radius: 30px;
+ }
+
+ body{
+    background-image: url(galinha.avif);
+    background-size: 100%;
+    background-position: 0 0 100% 0;
+    background-attachment: fixed;
+ }
