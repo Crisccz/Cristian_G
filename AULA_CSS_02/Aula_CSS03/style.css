@@ -1,0 +1,44 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: deepskyblue;
+}
+
+#p1{
+    color: blueviolet;
+}
+/* Sempre que eu adiciono um ID no HTML, devo usar # antes do nome do ID para usar no CSS e indetificar*/
+#p2{
+    color: rgb(4, 248, 57);
+}
+/* Sempre que eu adicionar uma class no HMTL, devo usar "." antes do nome da classe para usar no CSS e indetificar */
+
+.divs{
+    background-color: brown;
+}
+
+#sec1{
+    background-color: red;
+}
+
+#sec2{
+    background-color: blueviolet;
+    
+}
+#a1{
+    color: white;
+    font-size: 35px;
+}
+
+#a2{
+    color: grey;
+    font-size: 54px;
+}
+
+h3{
+    color: green;
+    background-color: white;
+}
+
+section h3, p{
+    background-color: lightpink;
+}
