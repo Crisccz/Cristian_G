@@ -6,7 +6,7 @@
     border: 15px aqua groove;
 }
 #p2{
-    border: 15px red double;
+    text-shadow: 10px 10px 1px red;
 }
 #p3{
     border: 10px blue solid;
@@ -25,9 +25,9 @@ img{
     border-radius: 30px;
  }
 
- body{
-    background-image: url(galinha.avif);
+ /* body{
+    background-image: url(robo.webp);
     background-size: 100%;
     background-position: 0 0 100% 0;
     background-attachment: fixed;
- }
+ } */

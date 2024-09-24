@@ -1,0 +1,17 @@
+#robo1{
+    float: left;
+}
+img{
+    float: right;
+}
+#robo2{
+    float: right;
+    clear: right;
+}
+#robo3{
+    float: left;
+    clear: left;
+}
+p{
+    margin: 20px;
+}
