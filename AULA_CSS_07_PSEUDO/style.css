@@ -1,0 +1,22 @@
+button{
+    background-color: blue;
+    color: aliceblue;
+    width: 10rem;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+button:hover{
+    background-color: blueviolet;
+    color: blue;
+    border-color: brown;
+}
+p:hover{
+    background-color: cadetblue;
+    cursor: pointer;
+}
+input:focus{
+    background-color: crimson;
+}
+li:nth-child(3){
+    border: 1px solid chocolate;
+}
