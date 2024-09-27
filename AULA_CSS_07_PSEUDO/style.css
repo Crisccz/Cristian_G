@@ -20,3 +20,29 @@ input:focus{
 li:nth-child(3){
     border: 1px solid chocolate;
 }
+
+#pa1::after{
+    content: " - aqui nos add o AFTER";
+    border: 1px solid red;
+}
+
+#pa1::before{
+    content: "Aqui adicionamos BEFORE - ";
+    border: 2px solid brown;
+}
+
+.pa2::first-letter{
+    font-size: 4em;
+    color: darkorchid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+.pa2::first-line{
+    background-color: rgb(5, 2717, 17);
+    color: orange;
+}
+
+#pa2::selection{
+    background-color: yellow;
+    color: darkorange;
+}
